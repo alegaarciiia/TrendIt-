@@ -1,0 +1,43 @@
+
+.fuente {
+	font-family: 'Lobster', cursive;
+	
+}
+
+.fuentedos {
+	font-family: 'Nunito', sans-serif;
+}
+.centrar_texto{
+	text-align: center;
+}
+.centrar_horizontal{
+	display: block;
+	margin: 0 auto;
+}
+.centrar_centro{
+	display: block;
+    margin: 0 auto;
+	width: 100%;
+}
+.carouselExampleIndicators{
+	position: relative;
+}
+.absoluto{
+	position: absolute;
+	z-index: 2;
+	top: 40%;
+	left: 40%;
+}
+.absoluto h1{
+	font-size: 2.5em;
+}
+.absoluto h2{
+	font-size: 1.5em;
+}
+
+
+.animacion:hover {
+	 transform: scale(1.2);
+	 color: pink;
+	
+}
